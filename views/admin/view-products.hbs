@@ -1,0 +1,39 @@
+<section>
+  <div class="container">
+    <table class="table mt-5">
+       <thead class="">
+        <tr>
+          <th scope="col"><h1>Products</h1></th>
+          <td>
+        <button style="margin-left: -136px;" type="button" class="btn btn-success btn-rounded"><a style="text-decoration: none; color: white;" href="/admin/add-products">add products</a></button>
+      </td>
+        </tr>
+      </thead>
+    </table>
+    <table class="table mt-5">
+      <thead class="table-dark table-bordered">
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Category</th>
+          <th scope="col">Description</th>
+          <th scope="col">Image</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        {{#each products}}
+
+        <tr>
+          <th scope="row">:</th>
+          <td>{{this.name}}</td>
+          <td>{{this.category}}</td>
+          <td style="max-width: 160px;">{{this.description}}</td>
+          <td><img style="width: 50px; height: 50px;" src="{{this.image}}"></td>
+        </tr>
+
+        {{/each}}
+      </tbody>
+    </table>
+  </div>
+</section>

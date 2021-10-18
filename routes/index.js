@@ -1,8 +1,8 @@
 var express = require('express');
 var router = express.Router();
 
-
 // importing MongoDB install MongoDB with ( npm install MongoDB )
+var MongoClient = require('mongodb').MongoClient;
 
 // get home
 router.get('/', function(req, res, next) {
@@ -31,10 +31,11 @@ router.get('/', function(req, res, next) {
           category: "Mobile",
           description:"Redmi Note 9 Pro (Glacier White, 4GB RAM, 64GB Storage) - Latest 8nm Snapdragon 720G &Alexa Hands-Free Capable",
           image: "https://m.media-amazon.com/images/I/41+cwZKB5vL._SY300_SX300_.jpg"
-        },
+        }
   ]
 
-  res.render('index', { products });
+  res.render('index', { products, admin:false});
+  
 });
 
 module.exports = router;
