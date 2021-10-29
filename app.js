@@ -39,6 +39,7 @@ db.connect((err) => {
 
 app.use('/', indexRouter);
 app.use('/admin-pannel', adminRouter);
+app.use(`/.netlify/functions/api`, router);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
