@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": false,
   "scripts": {
-    "start": "nodemon .bin/www"
+    "start": "nodemo .bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
