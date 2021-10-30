@@ -24,7 +24,7 @@ Once your pull request is created,  repo reviewer will take responsibility for p
 
 For more information about contributing to the documentation, see:
 
-- [Contribute docs](https://github.com/itsMeShon/eCommerce/CONTRIBUTION.md)
+- [Contribute docs](https://github.com/itsMeShon/eCommerce/CONTRIBUTING.md)
 
 
 ## Code of conduct
