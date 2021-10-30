@@ -3,7 +3,7 @@
 When contributing to this community, please first discuss the change you wish to make via raising an issue,
 sending an email, or any other method you see deem fit to discuss with the owners of this repository before making a change. 
 
-Please note we have a [CODE of CONDUCT](https://github.com/itsMeShon/eCommerce/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [CODE of CONDUCT](https://github.com/itsMeShon/eCommerce/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 
 ## Pull Request Process
