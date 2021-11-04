@@ -1,9 +1,9 @@
-.header_section{
+        body{
 	width: 100%;
 	float: left;
-  background-color: #ffffff;
+        background-color: #ffffff;
 	height: auto;
 	padding: 20px 0px;
 	background-size: 100%;
 	background-repeat: no-repeat;
-}
+        }
