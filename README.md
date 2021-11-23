@@ -1,4 +1,4 @@
-# eCommerce Website with NodeJS
+# eCommerce Website with NodeJS ![Size](https://img.shields.io/github/repo-size/shonsanthosh/eCommerce?style=for-the-badge)  
 
 ###### Note: the site works are doesnt completed so, it shows some bugs and errors in the site. Will be completed soon...
 
