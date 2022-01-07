@@ -1,10 +1,19 @@
 # eCommerce Website with NodeJS ![Size](https://img.shields.io/github/repo-size/mjvbz/ecommerce?style=for-the-badge)  
 
-###### Note: the site works are doesnt completed so, it shows some bugs and errors in the site. Will be completed soon...
+The site works are doesnt completed so, it shows some bugs and errors in the site. Will be completed soon...
 
 This is an eCommerce website create for understanding NodeJS, MongoDB, Express, and Handlebars, I created this as my NodeJS Project. you can download my code or clone this repository, and view this in [localhost:7000](http://localhost:7000/) you can change the port by going to bin/www and change the port to your choice.
 
-![Screenshot](https://github.com/mjvbz/eCommerce/blob/main/eCommerce/IMG-20211101-WA0018.jpg)
+<details>
+  <summary markdown="span">See the sample image of website </summary>
+
+   This is a sample image on how the website looks. you can also run website in localhost by running the app.js file with node.
+  
+ ![Screenshot](https://github.com/mjvbz/eCommerce/blob/main/eCommerce/IMG-20211101-WA0018.jpg)
+ 
+</details>
+
+
 
 ## requirments
 
@@ -30,11 +39,6 @@ For more information about contributing to the documentation, see:
 
 - [Contribute docs](https://github.com/itsMeShon/eCommerce/blob/main/CONTRIBUTING.md)
 
+Participation in this is governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md). 
 
-## Code of conduct
-
-Participation in this is governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
-
-## Thank you
-
- we appreciate your contributions to our website and our documentation!
+we appreciate your contributions to our website and our documentation!
