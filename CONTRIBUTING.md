@@ -17,7 +17,7 @@ Please note we have a [CODE of CONDUCT](https://github.com/itsMeShon/eCommerce/b
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
-## <a name="commit"></a> Commit Message Guidelines 😎
+## <a name="commit"></a> Commit Message Guidelines 
 
 In order to make git commit messages **easier to read** and faster to reason about, we follow some guidelines on most commits to keep the **format predictable**. Check [Conventional Commits specification](https://conventionalcommits.org) for more information about our guidelines.
 
