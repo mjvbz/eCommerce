@@ -1,4 +1,4 @@
-# eCommerce Website with NodeJS ![Size](https://img.shields.io/github/repo-size/mjvbz/ecommerce?style=for-the-badge)  
+# eCommerce Website with NodeJS 
 
 The site works are doesnt completed so, it shows some bugs and errors in the site. Will be completed soon...
 
